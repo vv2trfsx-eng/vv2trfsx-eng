@@ -13,6 +13,15 @@
 </div>
 
 ---
+<p align="center">
+  <a href="https://bit.ly/V2MarzNet">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+
+  <a href="https://t.me/marznetpro">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 # 👋 Hello
 
@@ -100,16 +109,6 @@ A professional VPN management platform focused on automation and modern deployme
 </div>
 ---
 
-# 📂 Featured Projects
-
-### 🚀 V2MarzNet
-
-Professional Telegram Bot & VPN Platform
-
-Coming Soon...
-
----
-
 # 🎯 Goals
 
 - Build Open Source Projects
@@ -126,6 +125,7 @@ Coming Soon...
 <img src="https://raw.githubusercontent.com/vv2trfsx-eng/vv2trfsx-eng/gh-pages/github-contribution-grid-snake.svg" width="100%">
 
 </div>
+
 # 🚀 Featured Project
 
 <div align="center">
@@ -150,13 +150,10 @@ Professional VPN Management Platform
 
 # 📫 Contact
 
-GitHub
-
-Telegram
-
-Email
-
----
+- 🟢 WhatsApp: https://bit.ly/V2MarzNet
+- 🔵 Telegram: https://t.me/marznetpro
+- 💻 GitHub: https://github.com/vv2trfsx-eng
+- ---
 
 <div align="center">
 
