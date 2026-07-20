@@ -96,6 +96,13 @@ Coming Soon...
 - Master Docker & Kubernetes
 
 ---
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vv2trfsx-eng/vv2trfsx-eng/gh-pages/github-contribution-grid-snake.svg" width="100%">
+
+</div>
 
 # 📫 Contact
 
