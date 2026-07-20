@@ -84,12 +84,20 @@ A professional VPN management platform focused on automation and modern deployme
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vv2trfsx-eng&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vv2trfsx-eng&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=vv2trfsx-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
-![Streak](https://streak-stats.demolab.com?user=vv2trfsx-eng&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vv2trfsx-eng&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
+</div>
+
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vv2trfsx-eng&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
 
 # 📂 Featured Projects
