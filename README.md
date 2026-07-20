@@ -57,15 +57,30 @@ A professional VPN management platform focused on automation and modern deployme
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technology Stack
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nodejs,python,vscode,bash,nginx,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nodejs,python,bash,nginx,mysql,vscode" />
 
-</p>
+</div>
 
 ---
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vv2trfsx-eng&theme=tokyonight&no-frame=true&row=1)
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vv2trfsx-eng&theme=tokyo-night)
+
+</div>
 
 # 📊 GitHub Stats
 
@@ -103,6 +118,27 @@ Coming Soon...
 <img src="https://raw.githubusercontent.com/vv2trfsx-eng/vv2trfsx-eng/gh-pages/github-contribution-grid-snake.svg" width="100%">
 
 </div>
+# 🚀 Featured Project
+
+<div align="center">
+
+## V2MarzNet
+
+Professional VPN Management Platform
+
+</div>
+
+### Features
+
+✅ Telegram Bot  
+✅ Docker Deployment  
+✅ Linux Server Management  
+✅ Cloud Infrastructure  
+✅ Subscription System  
+✅ Payment Integration  
+✅ API Development  
+✅ Automation Tools  
+
 
 # 📫 Contact
 
